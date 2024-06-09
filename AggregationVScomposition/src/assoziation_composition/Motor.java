@@ -27,6 +27,7 @@ public class Motor {
 	    return leistung;
 	  }
 	  public double getHubraum(){
+		
 	    return hubraum;
 	  }
 
